@@ -8,9 +8,14 @@ body{
     margin: 0;
     background: linear-gradient(to left, #0456ff,#0ff);
 }
+
 .heading{
-    text-align:center;    
+    text-align:center;
     font-size: 4rem;
+}
+
+#ac{
+    background: red;
 }
 
 .calculator-container{
@@ -60,6 +65,6 @@ body{
     font-size: 1.5rem;
 }
 .output .current-operand{
-    color: rgba(255, 255, 255, 0.75);
-    font-size: 1.5rem;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 2rem;
 }
